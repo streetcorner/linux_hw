@@ -1,0 +1,4 @@
+make
+./exer.1
+
+make clean
